@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EgitimAPI.Application/1.0.0": {
+        "dependencies": {
+          "EgitimAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EgitimAPI.Application.dll": {}
+        }
+      },
+      "EgitimAPI.Domain/1.0.0": {
+        "runtime": {
+          "EgitimAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EgitimAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EgitimAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

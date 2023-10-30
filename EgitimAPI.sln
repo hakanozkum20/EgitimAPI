@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{1C90FE24-8428-4CEC-AE96-72AB2F190508}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{D0FF4E4D-B1E8-4A02-A9D9-C20D0CC3A65A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{6A6F4FA8-E57A-4736-B9D0-366CAE4A9A65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgitimAPI.Domain", "Core\EgitimAPI.Domain\EgitimAPI.Domain.csproj", "{819B4FED-6160-4CB6-A052-B452BEDEDA8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgitimAPI.Application", "Core\EgitimAPI.Application\EgitimAPI.Application.csproj", "{D360A1A7-1321-4441-962B-80A63CFECDED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgitimAPI.Infrastructure", "Infrastructure\EgitimAPI.Infrastructure\EgitimAPI.Infrastructure.csproj", "{7800A728-7882-4B38-ACF9-4945DC4C08EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgitimAPI.Persistence", "Infrastructure\EgitimAPI.Persistence\EgitimAPI.Persistence.csproj", "{3E6934D7-72EA-4424-9F93-E49A40CDD16D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgitimAPI.Api", "Presentation\EgitimAPI.Api\EgitimAPI.Api.csproj", "{A5085C86-A7B9-489C-A645-3D6192851B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{819B4FED-6160-4CB6-A052-B452BEDEDA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819B4FED-6160-4CB6-A052-B452BEDEDA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819B4FED-6160-4CB6-A052-B452BEDEDA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819B4FED-6160-4CB6-A052-B452BEDEDA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D360A1A7-1321-4441-962B-80A63CFECDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D360A1A7-1321-4441-962B-80A63CFECDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D360A1A7-1321-4441-962B-80A63CFECDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D360A1A7-1321-4441-962B-80A63CFECDED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7800A728-7882-4B38-ACF9-4945DC4C08EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7800A728-7882-4B38-ACF9-4945DC4C08EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7800A728-7882-4B38-ACF9-4945DC4C08EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7800A728-7882-4B38-ACF9-4945DC4C08EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6934D7-72EA-4424-9F93-E49A40CDD16D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6934D7-72EA-4424-9F93-E49A40CDD16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6934D7-72EA-4424-9F93-E49A40CDD16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6934D7-72EA-4424-9F93-E49A40CDD16D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5085C86-A7B9-489C-A645-3D6192851B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5085C86-A7B9-489C-A645-3D6192851B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5085C86-A7B9-489C-A645-3D6192851B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5085C86-A7B9-489C-A645-3D6192851B70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{819B4FED-6160-4CB6-A052-B452BEDEDA8A} = {1C90FE24-8428-4CEC-AE96-72AB2F190508}
+		{D360A1A7-1321-4441-962B-80A63CFECDED} = {1C90FE24-8428-4CEC-AE96-72AB2F190508}
+		{7800A728-7882-4B38-ACF9-4945DC4C08EB} = {D0FF4E4D-B1E8-4A02-A9D9-C20D0CC3A65A}
+		{3E6934D7-72EA-4424-9F93-E49A40CDD16D} = {D0FF4E4D-B1E8-4A02-A9D9-C20D0CC3A65A}
+		{A5085C86-A7B9-489C-A645-3D6192851B70} = {6A6F4FA8-E57A-4736-B9D0-366CAE4A9A65}
+	EndGlobalSection
+EndGlobal

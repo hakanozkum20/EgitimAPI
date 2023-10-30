@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YWvEiqvP95H2T02lI5YWjeuBj6GYBPlcgibOf52XHFZkx0QQpB8K/czLriutXkVd4sRYDnEwFN/EYlOBl+mLTA==",
+  "success": true,
+  "projectFilePath": "/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Domain/EgitimAPI.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mAcTPKbIVLpe5qJkJHMZDbZncfZ1EbVURvx6r5U4PlWlZobLmCSFqLY+c4Nj6wNghuJ3dMvTDcNj4vArG1NPMA==",
+  "success": true,
+  "projectFilePath": "/home/esta/Projects/EgitimAPI/Infrastructure/EgitimAPI.Persistence/EgitimAPI.Persistence.csproj",
+  "expectedPackageFiles": [
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

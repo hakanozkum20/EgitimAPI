@@ -1,0 +1,15 @@
+/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Application/bin/Debug/net7.0/EgitimAPI.Application.deps.json
+/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Application/bin/Debug/net7.0/EgitimAPI.Application.dll
+/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Application/bin/Debug/net7.0/EgitimAPI.Application.pdb
+/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Application/bin/Debug/net7.0/EgitimAPI.Domain.dll
+/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Application/bin/Debug/net7.0/EgitimAPI.Domain.pdb
+/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Application/obj/Debug/net7.0/EgitimAPI.Application.csproj.AssemblyReference.cache
+/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Application/obj/Debug/net7.0/EgitimAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Application/obj/Debug/net7.0/EgitimAPI.Application.AssemblyInfoInputs.cache
+/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Application/obj/Debug/net7.0/EgitimAPI.Application.AssemblyInfo.cs
+/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Application/obj/Debug/net7.0/EgitimAPI.Application.csproj.CoreCompileInputs.cache
+/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Application/obj/Debug/net7.0/EgitimAPI.Application.csproj.CopyComplete
+/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Application/obj/Debug/net7.0/EgitimAPI.Application.dll
+/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Application/obj/Debug/net7.0/refint/EgitimAPI.Application.dll
+/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Application/obj/Debug/net7.0/EgitimAPI.Application.pdb
+/home/esta/Projects/EgitimAPI/Core/EgitimAPI.Application/obj/Debug/net7.0/ref/EgitimAPI.Application.dll

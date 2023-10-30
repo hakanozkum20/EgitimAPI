@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EgitimAPI.Persistence/1.0.0": {
+        "dependencies": {
+          "EgitimAPI.Application": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0.0"
+        },
+        "runtime": {
+          "EgitimAPI.Persistence.dll": {}
+        }
+      },
+      "EgitimAPI.Application/1.0.0": {
+        "dependencies": {
+          "EgitimAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EgitimAPI.Application.dll": {}
+        }
+      },
+      "EgitimAPI.Domain/1.0.0": {
+        "runtime": {
+          "EgitimAPI.Domain.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EgitimAPI.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EgitimAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EgitimAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

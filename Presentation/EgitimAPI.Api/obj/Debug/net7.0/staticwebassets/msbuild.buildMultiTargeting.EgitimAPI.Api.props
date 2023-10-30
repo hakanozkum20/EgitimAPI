@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/EgitimAPI.Api.props" />
+</Project>
