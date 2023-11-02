@@ -14,8 +14,8 @@ public class Member : BaseEntity
     public string Address { get; set; }
     public ICollection<SocialMedia> SocialMedias { get; set; }
     
-    public ICollection<Team> Teams { get; set; }
-    // public Team Team { get; set; }
+    // public ICollection<Team> Teams { get; set; }
+    public Team Team { get; set; }
     
     
 }

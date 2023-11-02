@@ -1,5 +1,5 @@
-using EgitimAPI.Application.Abstractions;
-using EgitimAPI.Persistence.Concretes;
+using EgitimAPI.Persistence.Contexts;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace EgitimAPI.Persistence;
@@ -8,6 +8,9 @@ public static class ServiceRegistation
 {
     public static void AddPersistenceServices(this IServiceCollection services)
     {
-        services.AddScoped<IMemberService,MemberService>();
+        services.AddDbContext<EgitimApiDbContext>(o => o.UseMySql(Configuration.ConnectionString,ServerVersion.AutoDetect(Configuration.ConnectionString)));
+        
+        // Yarın 8 de.
+
     }
 }
